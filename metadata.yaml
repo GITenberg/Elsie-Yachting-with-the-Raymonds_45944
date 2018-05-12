@@ -1,0 +1,40 @@
+_repo: Elsie-Yachting-with-the-Raymonds_45944
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45944-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Farquharson, Martha
+    - Cousin Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: The Dinsmores, Travillas, Lelands, and Raymonds enjoy a summer sojourn
+  aboard Captain Raymond's new yacht, traveling up and down the East Coast and ending
+  at Annapolis, Maryland, where Max enrolls in the Naval Academy.
+gutenberg_issued: '2014-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Yachts -- Juvenile fiction'
+title: Elsie Yachting with the Raymonds
+url: http://www.gutenberg.org/ebooks/45944
